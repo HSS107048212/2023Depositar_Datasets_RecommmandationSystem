@@ -1,2 +1,2 @@
 # 2023Depositar_Datasets_RecommmandationSystem
-雙層類神經網絡應用於Wikidata關鍵字發展Depositar資料集推薦系統
+雙層社群網絡應用於Wikidata關鍵字發展Depositar資料集推薦系統
